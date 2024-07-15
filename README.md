@@ -13,6 +13,7 @@ We are a [team of three developers](#our-team), and we utilized modern technolog
 - **Frontend:** Vue.js, Node.js, NPM
 - **Styling:** HTML, SCSS, JavaScript
 - **Backend:** GoLang (built following **SOLID** and **REST** principles)
+- **Load Balancer:** NGINX
 - **Database:** PostgreSQL
 - **Message Broker:** RabbitMQ
 - **Cache:** Redis
