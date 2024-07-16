@@ -1,7 +1,7 @@
 version: "3.8"
 services:
   api:
-    image: zhukovrost/pasteapi:1
+    image: zhukovrost/pasteapi:1.1
     env_file: .env
     ports:
       - '8080:8080'
